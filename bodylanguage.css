@@ -86,7 +86,7 @@ img{
 	justify-content:space-between;
 }
 .logo {
-	background-image: url(..//BodyLanguage.png);
+	background-image: url(../../jQuery/BodyLanguage.png);
     	width: 184px;
 	height: 45px;
 	text-indent: 101%;
@@ -200,7 +200,7 @@ img{
 
 .mainphoto{
 	position: relative;
-	background-image: url(../a08.jpg);
+	background-image: url(../../jQuery/a08.jpg);
 	height: 300px;
 	margin-top: 20px;
 
